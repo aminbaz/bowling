@@ -10,3 +10,4 @@ run
 compile
 run
 all {file:/home/bazaz/Documents/kata_bowling_scala/}kata_bowling_scala/products {file:/home/bazaz/Documents/kata_bowling_scala/}kata_bowling_scala/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml; session clear-all
