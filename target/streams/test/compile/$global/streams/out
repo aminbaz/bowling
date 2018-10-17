@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/bazaz/Documents/kata_bowling_scala/src/test/scala/bowling/BowlingSpec.scala:49:3: not found: value t[0m
+[0m[[0m[31merror[0m] [0m[0m  t("it should update the score result by taking values from others Frames (strikes/spares)") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

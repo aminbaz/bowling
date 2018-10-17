@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/bazaz/Documents/kata_bowling_scala/src/main/scala/bowling/Bowling.scala:10:9: recursive value listResult needs type[0m
+[0m[[0m[31merror[0m] [0m[0m        listResult :: x.getScoreFrame :: Nil[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
